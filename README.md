@@ -56,7 +56,7 @@ package orihimik.eba;
 ### - 工夫したこと -
 
 1, メイン部分はなるべくメソッドだけで処理することを試してみる！  
-前回（https://github.com/kimihiro-abe/Car_Test）でも試みてはみたものの、  
+前回（https://github.com/kimihiro-abe/Car_Test ）でも試みてはみたものの、  
 あまり上手くは出来なかったので再挑戦してみました。  
 <br>
 2, 実処理部分を別クラスにする。  
