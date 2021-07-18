@@ -1,6 +1,6 @@
 # Reverse_Order_Generator - 記述中
 ## 自作「Reverse_Order_Generator - 入力された文字を逆から並べる」  
-<img src="https://github.com/kimihiro-abe/Reverse_Order_Generator/blob/main/Reverse_Order_Generator_01.png" width="45%">
+<img src="https://github.com/kimihiro-abe/Reverse_Order_Generator/blob/main/Reverse_Order_Generator_01.png" width="50%">
 <br>
 
 ### - 序文 -
@@ -31,7 +31,7 @@
 <br>
 どんなものが出力されるのか？  
 参考として以下の画像をご参照ください。  
-<img src="https://github.com/kimihiro-abe/Reverse_Order_Generator/blob/main/Reverse_Order_Generator_02.png" width="45%">
+<img src="https://github.com/kimihiro-abe/Reverse_Order_Generator/blob/main/Reverse_Order_Generator_02.png" width="50%">
 
 <br>
 
