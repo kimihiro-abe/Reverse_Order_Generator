@@ -1,4 +1,4 @@
-# Reverse_Order_Generator - 記述中
+# Reverse_Order_Generator
 ## 自作「Reverse_Order_Generator - 入力された文字を逆から並べる」  
 <img src="https://github.com/kimihiro-abe/Reverse_Order_Generator/blob/main/Reverse_Order_Generator_01.png" width="50%">
 <br>
