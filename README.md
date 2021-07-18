@@ -2,7 +2,6 @@
 ## 自作「Reverse_Order_Generator - 入力された文字を逆から並べる」  
 <img src="https://github.com/kimihiro-abe/Reverse_Order_Generator/blob/main/Reverse_Order_Generator_01.png" width="50%">
 <br>
-
 ### - 序文 -
 
 5月後半の訓練課程でList/Set/Mapやpackageなど学んだので、  
@@ -32,7 +31,6 @@
 どんなものが出力されるのか？  
 参考として以下の画像をご参照ください。  
 <img src="https://github.com/kimihiro-abe/Reverse_Order_Generator/blob/main/Reverse_Order_Generator_02.png" width="50%">
-
 <br>
 
 ### - ファイルについて -
@@ -74,7 +72,7 @@ OrderLogic.javaのpublic void srcOrder_enigma() の中で試した部分です�
 様々な順序をアレコレするロジック部分ではありませんでした。 
 <br>  
 一番悩んだ部分...それは、  
-OrderLogic.java内に記述内されたピリオドで分割する部分でした。   
+OrderLogic.java内に記述内されたピリオドで分割する部分です。   
 
 	public OrderLogic(String srcTxt) { //文字列受け取ってセットして基礎となる配列作る
 		this.srcTxt = srcTxt;
